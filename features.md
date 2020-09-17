@@ -4,12 +4,12 @@
   * Ads Control.
   * Role & badge .
   * notification .
-  * profile =
-    = @username
-    = activiy ( vote + add bin ...)
-    = follow
-    = avatar
-    = ...
+  * profile = <br>
+    = @username <br>
+    = activiy ( vote + add bin ...) <br>
+    = follow <br>
+    = avatar <br>
+    = ... <br>
  * comment
  * Like
  *
